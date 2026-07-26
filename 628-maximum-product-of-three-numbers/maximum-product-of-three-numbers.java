@@ -12,7 +12,7 @@ class Solution {
             } else if (num > max2) {
                 max3 = max2;
                 max2 = num;
-            } else if (num > max3) {
+            } else if (num  >max3) {
                 max3 = num;
             }
             
